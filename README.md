@@ -17,5 +17,6 @@ Calculate total sales. Shopping mall with the most sales.
 Shopping mall generating the most income.
 
  Trend analysis of income and quantity.
+ Customer Shopping Analysis Dashboard.pdf
 
 https://app.powerbi.com/links/7EWtOCzJua?ctid=cc5894f0-eaa8-4da0-ab90-fd7a73e8a8f3&pbi_source=linkShare
